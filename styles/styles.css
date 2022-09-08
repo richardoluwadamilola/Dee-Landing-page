@@ -149,8 +149,7 @@ nav {
 }
   /* image resizing */
 img {
-    max-width: 50%;
-    height: 20;
+    width: 200px;
 }
   
   /* text - colors */

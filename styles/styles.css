@@ -1,0 +1,135 @@
+* {
+    margin: 0px;
+    font-family: Arvo;
+  }
+h1 {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    padding: 20px 0px;
+    justify-content: space-between;
+  }
+.division {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    justify-content: space-between;
+    align-items: center;
+  }
+.desktop_nav {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-div {
+    width: 35%;
+}
+.main-div p {
+    margin: 20px;
+    margin-left: 0px;
+}
+.dark-background .signup-btn {
+    border: none;
+}
+.sign-up {
+    background-color: #3882f6;
+    border: 1px solid white;
+    border-radius: 7px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 25px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.info {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+.images {
+    width: 200px;
+}
+.quotes {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.quotes div {
+    width: 50%;
+}
+.quotes div span {
+    float: right;
+    font-size: 32px;
+    font-weight: bolder;
+}
+.dark-background .img {
+    width: 500px;
+}
+.random {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-evenly;
+    width: 70%;
+    height: 500px;
+}
+.random .pictures {
+    display: flex;
+    justify-content: space-around;
+}
+.random .info {
+    margin: 0px auto;
+}
+.dark-background .company-logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+.blue-div div {
+    background-color: #3883f6;
+    border-radius: 10px;
+}
+.blue-div div {
+    display: flex;
+}
+.blue-div div strong {
+    color: white;
+    font-size: 24px;
+}
+.blue-div div p {
+    color: white;
+    font-size: 16px;
+}
+blue-div div .sign-up-div {
+    display: flex;
+    flex-direction: column;
+}
+.blue-div {
+    width: 70%;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+  footer span {
+    padding-bottom: 20px;
+}
+
+  

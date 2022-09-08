@@ -148,9 +148,10 @@ nav {
     margin-left: 0px;
 }
   /* image resizing */
-img {
-    width: 200px;
-}
+  img {
+    max-width: 100%;
+    height: auto;
+  }
   
   /* text - colors */
 .dark-background .hero-logo {

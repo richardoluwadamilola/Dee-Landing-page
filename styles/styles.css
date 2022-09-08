@@ -148,7 +148,7 @@ nav {
     margin-left: 0px;
 }
   /* image resizing */
-  img {
+img {
     max-width: 100%;
     height: auto;
 }
